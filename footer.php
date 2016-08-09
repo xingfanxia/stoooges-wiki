@@ -24,7 +24,7 @@
       <div class="col-sm-4 col-sm-offset-3 text-center ">
         <p>© Copyright 2014 - 2016 三士渡教育 Stoooges Education<br>
           All rights are reserved. 400-999-8974, <a href="mailto:info@stoooges.com" target="_blank">info@stoooges.com</a><br>
-          Web Design &amp; Development by <a href="http://www.areswang.com/" target="_blank">Ares Wang</a> and Kai Wang</p>
+          Web Design &amp; Development by <a href="http://www.areswang.com/" target="_blank">Ares Wang</a> and <a href="http://www.xiax.tech/" target="_blank">Xingfan Xia</a></p>
           <ul>
             <li><a href="tencent://message/?uin=568342428" target="_blank"><i class="fa fa-linux fa-2x"></i></a> QQ </li>
             <li><a href="http://page.renren.com/601865992" target="_blank"><i class="fa fa-renren fa-2x"></i></a> 人人 </li>
