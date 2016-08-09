@@ -249,3 +249,8 @@ if ( ! function_exists( '_wp_render_title_tag' ) ) :
     add_action( 'wp_head', 'theme_slug_render_title' );
 endif;
 
+//markdown image adding
+// add_filter( 'image_send_to_editor', 'new_image_send_to_editor', 21, 8 );
+// function new_image_send_to_editor( $html, $id, $caption, $title, $align, $url, $size, $alt ) {
+//     return "![$alt]($url \"$caption\")";
+// }
