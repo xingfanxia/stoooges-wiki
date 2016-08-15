@@ -35,7 +35,7 @@
           </ul> 
         </div>
         <div class="col-sm-4">
-          <img src="wp-content/uploads/2016/08/wechat.jpg" alt="">
+          <img src="<?php bloginfo('template_directory'); ?>/images/wechat.jpg" alt="">
         </div>
         <div class="col-sm-1">
         </div>
