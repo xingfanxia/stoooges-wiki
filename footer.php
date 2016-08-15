@@ -33,7 +33,7 @@
           </ul> 
         </div>
         <div class="col-sm-4">
-          <img src="http://stoooges.com/images/wechat.jpg" alt="">
+          <img src="images/wechat.jpg" alt="">
         </div>
         <div class="col-sm-1">
         </div>
